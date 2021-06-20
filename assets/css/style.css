@@ -10,12 +10,59 @@ hr {
     /* height: 50px; */
 }
 
+#dateContainer {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   background-color: brown;
+   width: 100%;
+   height: 100%;
+   font-size: 22px;
+   font-style: normal;
+   font-weight: bold;
+}
 
+#text9AM {
+    /* background-color: chartreuse; */
+    height: 100px;
+}
 
+#event9id {
+    object-position: center;
+    margin-left: 38%;
+}
 
+#text10AM {
+    height: 100px;
+}
 
+#text11AM {
+    height: 100px;
+}
 
+#text12PM {
+    height: 100px;
+}
 
+#text1PM {
+    height: 100px;
+}
+
+#text2PM {
+    height: 100px;
+}
+
+#text3PM {
+    height: 100px;
+}
+
+#text4PM {
+    height: 100px;
+}
+
+#text5PM {
+    height: 100px;
+}
 
 
 
